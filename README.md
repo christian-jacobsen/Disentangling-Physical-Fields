@@ -3,7 +3,7 @@
 
 Variational autoencoder implementation using an architecture consisting of Dense blocks. 
 
-Please cite (CITE). Some of the code is adapted from (CITE), see paper for more in depth explanation on architecture.
+Please cite (CITE). Some of the code is adapted from (CITE), see paper for more in depth explanation on architecture. Some code adapted from (CITE)
 
 ## Data
 
